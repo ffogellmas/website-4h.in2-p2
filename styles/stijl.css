@@ -56,3 +56,8 @@ section.artikel {
     padding: 10px 80px 10px 80px;
     background-color: #f5f5dc;
 }
+img.usb-stick {
+    border: 5px ridge red;
+    padding: 3px;
+    background-color: lavender;
+}
