@@ -1,0 +1,58 @@
+/* © Sam le Goff */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+header#intro {
+    background-image: url(../images/terminal.jpg);
+    height: 200px;
+}
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 { 
+    font-size: 250%;
+    color: rgb(15, 15, 94);
+    text-align: center;
+}
+h1.intro {
+    color: aliceblue;
+}
+h2 {
+    font-size: 180%;
+    color: rgb(38, 40, 43);
+}
+p {
+    text-align: justify;
+    color: rgb(82, 82, 82);
+}
+p.intro {
+    color: #424242;
+    text-indent: 10%;
+    font-size: 110%;
+}
+h2.intro {
+    font-style: italic;
+    font-size: 140%;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+}
+nav ul li {
+    margin: 40px;
+}
+nav ul li a {
+    text-decoration: none;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+section.artikel {
+    border: 5px outset gray;
+    border-radius: 20px 0px 20px 0px;
+    margin: 100px;
+    padding: 10px 80px 10px 80px;
+    background-color: #f5f5dc;
+}
