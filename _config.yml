@@ -1,4 +1,5 @@
 exclude:
   - .gitignore
   - CNAME
+  - README.md
 permalink: pretty
